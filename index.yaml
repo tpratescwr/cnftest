@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2025-01-06T15:11:42.003197212-03:00"
+entries:
+  firewall-host-netdevice:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2025-01-06T15:17:25.763161966-03:00"
+    description: A Helm chart to deploy Firewall app for vFirewall, networking backend
+      is passthrough host-device
+    digest: f800e904fe934a7e74915e1e8e28ea262acbfc4c01f1c3692e8fe332abfb92c1
+    name: firewall-host-netdevice
+    urls:
+    - https://tpratescwr.github.io/cnftest/charts/firewall-host-netdevice-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-01-06T15:17:25.762469679-03:00"
